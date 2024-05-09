@@ -1,11 +1,10 @@
 
 # DNA Manipulation/Analysis Tools
-A multi-file program developed in C to manipulate and analyze DNA sequences.
+A multi-file program developed in C to manipulate and analyse DNA sequences.
 
 ## Installation
 
-```bash
-# Example
+```
 git clone https://github.com/P541M/Bioinformatics-Utils.git
 cd Bioinformatics-Utils
 ```
